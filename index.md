@@ -22,7 +22,7 @@ Transfer learning is much faster than end-to-end weight training, but it is hist
 
 ### Machine Learning
 
-[Comparing Various ML Algorithms for Imbalanced Data](/pdf/ML_Salary_Results.pdf)
+[Comparing Various ML Algorithms for Imbalanced Data](/pdf/chirschmann3-analysis.pdf)
 
 These experiments investigate the F1 score resulting from using various ML algorithms with the imbalanced UCI Adults dataset which classifies individuals as making greater than or less than 50k/year based on census data.
 <img src="images/ML_Salary_Results.PNG?raw=true"/>
