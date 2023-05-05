@@ -41,7 +41,7 @@ FIRE Tool
 
 The Financial Independence Retire Early (FIRE) movement relies on 4% safe withdrawl limit established in the 1998 Trinity Study. However, this study looks at a maximum of a 30 year withdrawl rate which is too short for most of those participating in FIRE. I created a tool to explore the probability of success for a user inputed investment, withdrawl, start date, and retirement date for every historical month of the S&P500.
 
-
+[View code on GitHub](https://github.com/chirschmann3/FIREtool/)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
