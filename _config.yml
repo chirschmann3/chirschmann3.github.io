@@ -1,11 +1,15 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Casey Hirschmann # your name (or website title) here
+logo: "/images/headshot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Engineer with 6 years experience in optimization, visualization, and process automation turned Data Scientist. 
+  I'm passionate about combining my engineering understanding of operations with the problem solving capabilities of machine learning. 
+  I work best when I have direct line of sight to my impact and have the opportunity to collaborate with multiple internal and 
+  external stakeholders in the areas of failure analysis, process automation, and operational optimization.  
   <br><br>
-  Second description 
+  B.S. Chemical Engineering - Georgia Institute of Technology - May 2015 - 3.94 GPA
+  M.S. Computer Science (Machine Learning Specialty) - Georgia Institute of Technology - Expected May 2024 - 4.0 GPA
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/casey-hirschmann-7015a698/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
