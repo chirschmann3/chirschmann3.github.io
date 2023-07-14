@@ -37,6 +37,15 @@ The Financial Independence Retire Early (FIRE) movement relies on 4% safe withdr
 
 [View code on GitHub](https://github.com/chirschmann3/FIREtool/)
 
+
+Data Science Salary Exploration
+
+I explored Kaggle's Data Science Salaries 2023 dataset for interesting trends and variance specific to full time, US-based employees. I explored things like salary distribution by experience level, company size, and remote work status.
+
+<img src="images/Summary_Visuals.png?raw=true"/>
+
+[View code on GitHub](https://github.com/chirschmann3/dataScienceSalaries_Explore/)
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
